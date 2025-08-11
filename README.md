@@ -1,8 +1,8 @@
 # Proyecto Academia
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST-A30000?style=plastice&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-A30000?style=plastic&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastice&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)
 ![ReDoc](https://img.shields.io/badge/ReDoc-E0234A?style=plastic&logo=redoc&logoColor=white)
 
 
